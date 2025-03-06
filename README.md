@@ -34,3 +34,9 @@ git clone https://github.com/avinash-8-tech/mern-starter-kit-.git
 
 ## Start the frontend
 - npm start
+
+## Preview
+
+
+https://github.com/user-attachments/assets/33c26cb9-5138-401e-a48d-bde2c834cc9c
+
