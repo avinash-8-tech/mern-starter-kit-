@@ -33,4 +33,4 @@ git clone https://github.com/avinash-8-tech/mern-starter-kit-.git
 - npm install
 
 ## Start the frontend
-npm start
+- npm start
